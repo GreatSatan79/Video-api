@@ -3,6 +3,7 @@
 * @代码开源，透明，请勿用于商业用途，完全开源模式，供大家一起探讨研究 
 * @支持全网（支持跨域）的M3U8资源加速 * @调用举例：http://域名/video/?url= 
 * @DPlayer播放器由于P2P原因只支持M3U8格式的视频
+* @本项目地址:https://github.com/GreatSatan79/Video-api
 */
 error_reporting(0);
 header("Content-Type: text/html; charset=utf-8");
