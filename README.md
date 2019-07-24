@@ -5,10 +5,10 @@
 
 <ul>
    <li>
-     <p>The DPlayer player will be activated when the PC accesses <p>
+     The DPlayer player will be activated when the PC accesses 
    </li>
    <li>
-     <p>Video Player will be activated when the phone is accessed<p>
+     Video Player will be activated when the phone is accessed
    </li>
 </ul>
 
